@@ -1,0 +1,42 @@
+目前版本，第一個演算法
+
+第二個演算法，只跟bandwidth有關
+找k-shortest path之後再去判斷switch的好壞，然後決定好路徑
+除了可以看accurate 也可以看每條路的頻寬，或throughput
+
+fairness index
+
+可以比較第一個演算法中，每個人走的路徑跟實際最短路徑。(因為後面的會被前面的佔住)
+
+routing的
+
+p4的pipeline的架構 match table (如果是用hash的話要考慮collision)
+
+
+
+---------------------------
+
+Paper 
+交大的樣板
+
+Thesis
+期刊或是會議的樣板
+
+Program
+所有程式碼(不管是SIMULATION 還是最終的)
+還要加READ ME跟一個可以動的
+
+Ref
+碩一就可以開始，檔名盡量一致 年分 會議 還可以有subtitle 不同類別
+
+Results
+由於你平常給的圖 有可能格式到時候不符合規格
+所以應該要把平常畫圖的程式 跟 那時候的數據放到這邊
+(Matlab感覺比較好)
+可以有subfolder(跟論文的結構呼應) 不同組的圖 是改變哪個參數 就用那個參數當subtitle的名稱
+
+Slides
+平常報告的跟最後可能要口試的簡報都放在這裡面
+
+---------------------------
+
