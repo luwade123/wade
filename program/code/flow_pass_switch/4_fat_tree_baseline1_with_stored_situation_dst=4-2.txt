@@ -1,0 +1,324 @@
+4 base1
+d: 5 w: 3 k: 1
+all [2293.0] 
+
+ans 2293.0 
+
+4_baseline_1_switch_ 0 = 398
+4_baseline_1_switch_ 1 = 384
+4_baseline_1_switch_ 2 = 326
+4_baseline_1_switch_ 3 = 316
+4_baseline_1_switch_ 4 = 0
+4_baseline_1_switch_ 5 = 0
+4_baseline_1_switch_ 6 = 0
+4_baseline_1_switch_ 7 = 0
+4_baseline_1_switch_ 8 = 636
+4_baseline_1_switch_ 9 = 634
+4_baseline_1_switch_ 10 = 566
+4_baseline_1_switch_ 11 = 564
+4_baseline_1_switch_ 12 = 0
+4_baseline_1_switch_ 13 = 0
+4_baseline_1_switch_ 14 = 0
+4_baseline_1_switch_ 15 = 0
+4_baseline_1_switch_ 16 = 244
+4_baseline_1_switch_ 17 = 244
+4_baseline_1_switch_ 18 = 244
+4_baseline_1_switch_ 19 = 244
+[398, 384, 326, 316, 0, 0, 0, 0, 636, 634, 566, 564, 0, 0, 0, 0, 244, 244, 244, 244]
+4 base1
+d: 5 w: 6 k: 1
+all [1187.0] 
+
+ans 1187.0 
+
+4_baseline_1_switch_ 0 = 398
+4_baseline_1_switch_ 1 = 384
+4_baseline_1_switch_ 2 = 326
+4_baseline_1_switch_ 3 = 316
+4_baseline_1_switch_ 4 = 0
+4_baseline_1_switch_ 5 = 0
+4_baseline_1_switch_ 6 = 0
+4_baseline_1_switch_ 7 = 0
+4_baseline_1_switch_ 8 = 636
+4_baseline_1_switch_ 9 = 634
+4_baseline_1_switch_ 10 = 566
+4_baseline_1_switch_ 11 = 564
+4_baseline_1_switch_ 12 = 0
+4_baseline_1_switch_ 13 = 0
+4_baseline_1_switch_ 14 = 0
+4_baseline_1_switch_ 15 = 0
+4_baseline_1_switch_ 16 = 244
+4_baseline_1_switch_ 17 = 244
+4_baseline_1_switch_ 18 = 244
+4_baseline_1_switch_ 19 = 244
+[398, 384, 326, 316, 0, 0, 0, 0, 636, 634, 566, 564, 0, 0, 0, 0, 244, 244, 244, 244]
+4 base1
+d: 5 w: 9 k: 1
+all [855.0] 
+
+ans 855.0 
+
+4_baseline_1_switch_ 0 = 398
+4_baseline_1_switch_ 1 = 384
+4_baseline_1_switch_ 2 = 326
+4_baseline_1_switch_ 3 = 316
+4_baseline_1_switch_ 4 = 0
+4_baseline_1_switch_ 5 = 0
+4_baseline_1_switch_ 6 = 0
+4_baseline_1_switch_ 7 = 0
+4_baseline_1_switch_ 8 = 636
+4_baseline_1_switch_ 9 = 634
+4_baseline_1_switch_ 10 = 566
+4_baseline_1_switch_ 11 = 564
+4_baseline_1_switch_ 12 = 0
+4_baseline_1_switch_ 13 = 0
+4_baseline_1_switch_ 14 = 0
+4_baseline_1_switch_ 15 = 0
+4_baseline_1_switch_ 16 = 244
+4_baseline_1_switch_ 17 = 244
+4_baseline_1_switch_ 18 = 244
+4_baseline_1_switch_ 19 = 244
+[398, 384, 326, 316, 0, 0, 0, 0, 636, 634, 566, 564, 0, 0, 0, 0, 244, 244, 244, 244]
+4 base1
+d: 6 w: 9 k: 1
+all [653.0] 
+
+ans 653.0 
+
+4_baseline_1_switch_ 0 = 398
+4_baseline_1_switch_ 1 = 384
+4_baseline_1_switch_ 2 = 326
+4_baseline_1_switch_ 3 = 316
+4_baseline_1_switch_ 4 = 0
+4_baseline_1_switch_ 5 = 0
+4_baseline_1_switch_ 6 = 0
+4_baseline_1_switch_ 7 = 0
+4_baseline_1_switch_ 8 = 636
+4_baseline_1_switch_ 9 = 634
+4_baseline_1_switch_ 10 = 566
+4_baseline_1_switch_ 11 = 564
+4_baseline_1_switch_ 12 = 0
+4_baseline_1_switch_ 13 = 0
+4_baseline_1_switch_ 14 = 0
+4_baseline_1_switch_ 15 = 0
+4_baseline_1_switch_ 16 = 244
+4_baseline_1_switch_ 17 = 244
+4_baseline_1_switch_ 18 = 244
+4_baseline_1_switch_ 19 = 244
+[398, 384, 326, 316, 0, 0, 0, 0, 636, 634, 566, 564, 0, 0, 0, 0, 244, 244, 244, 244]
+4 base1
+d: 5 w: 3 k: 3
+all [2133.0] 
+
+ans 2133.0 
+
+4_baseline_1_switch_ 0 = 398
+4_baseline_1_switch_ 1 = 384
+4_baseline_1_switch_ 2 = 326
+4_baseline_1_switch_ 3 = 316
+4_baseline_1_switch_ 4 = 4
+4_baseline_1_switch_ 5 = 4
+4_baseline_1_switch_ 6 = 4
+4_baseline_1_switch_ 7 = 2
+4_baseline_1_switch_ 8 = 636
+4_baseline_1_switch_ 9 = 634
+4_baseline_1_switch_ 10 = 568
+4_baseline_1_switch_ 11 = 562
+4_baseline_1_switch_ 12 = 14
+4_baseline_1_switch_ 13 = 14
+4_baseline_1_switch_ 14 = 12
+4_baseline_1_switch_ 15 = 12
+4_baseline_1_switch_ 16 = 256
+4_baseline_1_switch_ 17 = 256
+4_baseline_1_switch_ 18 = 244
+4_baseline_1_switch_ 19 = 258
+[398, 384, 326, 316, 4, 4, 4, 2, 636, 634, 568, 562, 14, 14, 12, 12, 256, 256, 244, 258]
+4 base1
+d: 5 w: 6 k: 3
+all [984.0] 
+
+ans 984.0 
+
+4_baseline_1_switch_ 0 = 398
+4_baseline_1_switch_ 1 = 384
+4_baseline_1_switch_ 2 = 326
+4_baseline_1_switch_ 3 = 316
+4_baseline_1_switch_ 4 = 4
+4_baseline_1_switch_ 5 = 4
+4_baseline_1_switch_ 6 = 4
+4_baseline_1_switch_ 7 = 4
+4_baseline_1_switch_ 8 = 636
+4_baseline_1_switch_ 9 = 634
+4_baseline_1_switch_ 10 = 560
+4_baseline_1_switch_ 11 = 570
+4_baseline_1_switch_ 12 = 14
+4_baseline_1_switch_ 13 = 16
+4_baseline_1_switch_ 14 = 14
+4_baseline_1_switch_ 15 = 14
+4_baseline_1_switch_ 16 = 258
+4_baseline_1_switch_ 17 = 250
+4_baseline_1_switch_ 18 = 254
+4_baseline_1_switch_ 19 = 256
+[398, 384, 326, 316, 4, 4, 4, 4, 636, 634, 560, 570, 14, 16, 14, 14, 258, 250, 254, 256]
+4 base1
+d: 5 w: 9 k: 3
+all [629.0] 
+
+ans 629.0 
+
+4_baseline_1_switch_ 0 = 398
+4_baseline_1_switch_ 1 = 384
+4_baseline_1_switch_ 2 = 326
+4_baseline_1_switch_ 3 = 316
+4_baseline_1_switch_ 4 = 2
+4_baseline_1_switch_ 5 = 2
+4_baseline_1_switch_ 6 = 2
+4_baseline_1_switch_ 7 = 2
+4_baseline_1_switch_ 8 = 634
+4_baseline_1_switch_ 9 = 636
+4_baseline_1_switch_ 10 = 564
+4_baseline_1_switch_ 11 = 566
+4_baseline_1_switch_ 12 = 12
+4_baseline_1_switch_ 13 = 12
+4_baseline_1_switch_ 14 = 12
+4_baseline_1_switch_ 15 = 10
+4_baseline_1_switch_ 16 = 254
+4_baseline_1_switch_ 17 = 254
+4_baseline_1_switch_ 18 = 254
+4_baseline_1_switch_ 19 = 252
+[398, 384, 326, 316, 2, 2, 2, 2, 634, 636, 564, 566, 12, 12, 12, 10, 254, 254, 254, 252]
+4 base1
+d: 6 w: 9 k: 3
+all [508.0] 
+
+ans 508.0 
+
+4_baseline_1_switch_ 0 = 398
+4_baseline_1_switch_ 1 = 384
+4_baseline_1_switch_ 2 = 326
+4_baseline_1_switch_ 3 = 316
+4_baseline_1_switch_ 4 = 4
+4_baseline_1_switch_ 5 = 4
+4_baseline_1_switch_ 6 = 4
+4_baseline_1_switch_ 7 = 4
+4_baseline_1_switch_ 8 = 636
+4_baseline_1_switch_ 9 = 634
+4_baseline_1_switch_ 10 = 564
+4_baseline_1_switch_ 11 = 566
+4_baseline_1_switch_ 12 = 16
+4_baseline_1_switch_ 13 = 14
+4_baseline_1_switch_ 14 = 14
+4_baseline_1_switch_ 15 = 14
+4_baseline_1_switch_ 16 = 260
+4_baseline_1_switch_ 17 = 250
+4_baseline_1_switch_ 18 = 250
+4_baseline_1_switch_ 19 = 258
+[398, 384, 326, 316, 4, 4, 4, 4, 636, 634, 564, 566, 16, 14, 14, 14, 260, 250, 250, 258]
+4 base1
+d: 5 w: 3 k: 5
+all [2247.0] 
+
+ans 2247.0 
+
+4_baseline_1_switch_ 0 = 398
+4_baseline_1_switch_ 1 = 384
+4_baseline_1_switch_ 2 = 326
+4_baseline_1_switch_ 3 = 316
+4_baseline_1_switch_ 4 = 4
+4_baseline_1_switch_ 5 = 4
+4_baseline_1_switch_ 6 = 4
+4_baseline_1_switch_ 7 = 4
+4_baseline_1_switch_ 8 = 636
+4_baseline_1_switch_ 9 = 634
+4_baseline_1_switch_ 10 = 570
+4_baseline_1_switch_ 11 = 560
+4_baseline_1_switch_ 12 = 16
+4_baseline_1_switch_ 13 = 16
+4_baseline_1_switch_ 14 = 14
+4_baseline_1_switch_ 15 = 14
+4_baseline_1_switch_ 16 = 256
+4_baseline_1_switch_ 17 = 258
+4_baseline_1_switch_ 18 = 248
+4_baseline_1_switch_ 19 = 258
+[398, 384, 326, 316, 4, 4, 4, 4, 636, 634, 570, 560, 16, 16, 14, 14, 256, 258, 248, 258]
+4 base1
+d: 5 w: 6 k: 5
+all [1092.0] 
+
+ans 1092.0 
+
+4_baseline_1_switch_ 0 = 398
+4_baseline_1_switch_ 1 = 384
+4_baseline_1_switch_ 2 = 326
+4_baseline_1_switch_ 3 = 316
+4_baseline_1_switch_ 4 = 4
+4_baseline_1_switch_ 5 = 4
+4_baseline_1_switch_ 6 = 4
+4_baseline_1_switch_ 7 = 4
+4_baseline_1_switch_ 8 = 636
+4_baseline_1_switch_ 9 = 634
+4_baseline_1_switch_ 10 = 566
+4_baseline_1_switch_ 11 = 564
+4_baseline_1_switch_ 12 = 14
+4_baseline_1_switch_ 13 = 14
+4_baseline_1_switch_ 14 = 14
+4_baseline_1_switch_ 15 = 14
+4_baseline_1_switch_ 16 = 260
+4_baseline_1_switch_ 17 = 250
+4_baseline_1_switch_ 18 = 258
+4_baseline_1_switch_ 19 = 248
+[398, 384, 326, 316, 4, 4, 4, 4, 636, 634, 566, 564, 14, 14, 14, 14, 260, 250, 258, 248]
+4 base1
+d: 5 w: 9 k: 5
+all [652.0] 
+
+ans 652.0 
+
+4_baseline_1_switch_ 0 = 398
+4_baseline_1_switch_ 1 = 384
+4_baseline_1_switch_ 2 = 326
+4_baseline_1_switch_ 3 = 316
+4_baseline_1_switch_ 4 = 4
+4_baseline_1_switch_ 5 = 4
+4_baseline_1_switch_ 6 = 4
+4_baseline_1_switch_ 7 = 2
+4_baseline_1_switch_ 8 = 638
+4_baseline_1_switch_ 9 = 632
+4_baseline_1_switch_ 10 = 566
+4_baseline_1_switch_ 11 = 564
+4_baseline_1_switch_ 12 = 14
+4_baseline_1_switch_ 13 = 14
+4_baseline_1_switch_ 14 = 12
+4_baseline_1_switch_ 15 = 12
+4_baseline_1_switch_ 16 = 256
+4_baseline_1_switch_ 17 = 252
+4_baseline_1_switch_ 18 = 258
+4_baseline_1_switch_ 19 = 248
+[398, 384, 326, 316, 4, 4, 4, 2, 638, 632, 566, 564, 14, 14, 12, 12, 256, 252, 258, 248]
+4 base1
+d: 6 w: 9 k: 5
+all [604.0] 
+
+ans 604.0 
+
+4_baseline_1_switch_ 0 = 398
+4_baseline_1_switch_ 1 = 384
+4_baseline_1_switch_ 2 = 326
+4_baseline_1_switch_ 3 = 316
+4_baseline_1_switch_ 4 = 4
+4_baseline_1_switch_ 5 = 2
+4_baseline_1_switch_ 6 = 4
+4_baseline_1_switch_ 7 = 4
+4_baseline_1_switch_ 8 = 638
+4_baseline_1_switch_ 9 = 632
+4_baseline_1_switch_ 10 = 570
+4_baseline_1_switch_ 11 = 560
+4_baseline_1_switch_ 12 = 14
+4_baseline_1_switch_ 13 = 14
+4_baseline_1_switch_ 14 = 14
+4_baseline_1_switch_ 15 = 14
+4_baseline_1_switch_ 16 = 262
+4_baseline_1_switch_ 17 = 254
+4_baseline_1_switch_ 18 = 246
+4_baseline_1_switch_ 19 = 256
+[398, 384, 326, 316, 4, 2, 4, 4, 638, 632, 570, 560, 14, 14, 14, 14, 262, 254, 246, 256]

@@ -1,0 +1,324 @@
+4 base1
+d: 5 w: 3 k: 1
+all [1555.0] 
+
+ans 1555.0 
+
+4_baseline_1_switch_ 0 = 227
+4_baseline_1_switch_ 1 = 238
+4_baseline_1_switch_ 2 = 241
+4_baseline_1_switch_ 3 = 200
+4_baseline_1_switch_ 4 = 324
+4_baseline_1_switch_ 5 = 194
+4_baseline_1_switch_ 6 = 0
+4_baseline_1_switch_ 7 = 0
+4_baseline_1_switch_ 8 = 410
+4_baseline_1_switch_ 9 = 408
+4_baseline_1_switch_ 10 = 398
+4_baseline_1_switch_ 11 = 398
+4_baseline_1_switch_ 12 = 464
+4_baseline_1_switch_ 13 = 466
+4_baseline_1_switch_ 14 = 0
+4_baseline_1_switch_ 15 = 0
+4_baseline_1_switch_ 16 = 280
+4_baseline_1_switch_ 17 = 280
+4_baseline_1_switch_ 18 = 280
+4_baseline_1_switch_ 19 = 280
+[227, 238, 241, 200, 324, 194, 0, 0, 410, 408, 398, 398, 464, 466, 0, 0, 280, 280, 280, 280]
+4 base1
+d: 5 w: 6 k: 1
+all [608.0] 
+
+ans 608.0 
+
+4_baseline_1_switch_ 0 = 227
+4_baseline_1_switch_ 1 = 238
+4_baseline_1_switch_ 2 = 241
+4_baseline_1_switch_ 3 = 200
+4_baseline_1_switch_ 4 = 324
+4_baseline_1_switch_ 5 = 194
+4_baseline_1_switch_ 6 = 0
+4_baseline_1_switch_ 7 = 0
+4_baseline_1_switch_ 8 = 410
+4_baseline_1_switch_ 9 = 408
+4_baseline_1_switch_ 10 = 398
+4_baseline_1_switch_ 11 = 398
+4_baseline_1_switch_ 12 = 464
+4_baseline_1_switch_ 13 = 466
+4_baseline_1_switch_ 14 = 0
+4_baseline_1_switch_ 15 = 0
+4_baseline_1_switch_ 16 = 280
+4_baseline_1_switch_ 17 = 280
+4_baseline_1_switch_ 18 = 280
+4_baseline_1_switch_ 19 = 280
+[227, 238, 241, 200, 324, 194, 0, 0, 410, 408, 398, 398, 464, 466, 0, 0, 280, 280, 280, 280]
+4 base1
+d: 5 w: 9 k: 1
+all [397.0] 
+
+ans 397.0 
+
+4_baseline_1_switch_ 0 = 227
+4_baseline_1_switch_ 1 = 238
+4_baseline_1_switch_ 2 = 241
+4_baseline_1_switch_ 3 = 200
+4_baseline_1_switch_ 4 = 324
+4_baseline_1_switch_ 5 = 194
+4_baseline_1_switch_ 6 = 0
+4_baseline_1_switch_ 7 = 0
+4_baseline_1_switch_ 8 = 410
+4_baseline_1_switch_ 9 = 408
+4_baseline_1_switch_ 10 = 398
+4_baseline_1_switch_ 11 = 398
+4_baseline_1_switch_ 12 = 464
+4_baseline_1_switch_ 13 = 466
+4_baseline_1_switch_ 14 = 0
+4_baseline_1_switch_ 15 = 0
+4_baseline_1_switch_ 16 = 280
+4_baseline_1_switch_ 17 = 280
+4_baseline_1_switch_ 18 = 280
+4_baseline_1_switch_ 19 = 280
+[227, 238, 241, 200, 324, 194, 0, 0, 410, 408, 398, 398, 464, 466, 0, 0, 280, 280, 280, 280]
+4 base1
+d: 6 w: 9 k: 1
+all [325.0] 
+
+ans 325.0 
+
+4_baseline_1_switch_ 0 = 227
+4_baseline_1_switch_ 1 = 238
+4_baseline_1_switch_ 2 = 241
+4_baseline_1_switch_ 3 = 200
+4_baseline_1_switch_ 4 = 324
+4_baseline_1_switch_ 5 = 194
+4_baseline_1_switch_ 6 = 0
+4_baseline_1_switch_ 7 = 0
+4_baseline_1_switch_ 8 = 410
+4_baseline_1_switch_ 9 = 408
+4_baseline_1_switch_ 10 = 398
+4_baseline_1_switch_ 11 = 398
+4_baseline_1_switch_ 12 = 464
+4_baseline_1_switch_ 13 = 466
+4_baseline_1_switch_ 14 = 0
+4_baseline_1_switch_ 15 = 0
+4_baseline_1_switch_ 16 = 280
+4_baseline_1_switch_ 17 = 280
+4_baseline_1_switch_ 18 = 280
+4_baseline_1_switch_ 19 = 280
+[227, 238, 241, 200, 324, 194, 0, 0, 410, 408, 398, 398, 464, 466, 0, 0, 280, 280, 280, 280]
+4 base1
+d: 5 w: 3 k: 3
+all [1313.0] 
+
+ans 1313.0 
+
+4_baseline_1_switch_ 0 = 227
+4_baseline_1_switch_ 1 = 238
+4_baseline_1_switch_ 2 = 241
+4_baseline_1_switch_ 3 = 204
+4_baseline_1_switch_ 4 = 324
+4_baseline_1_switch_ 5 = 194
+4_baseline_1_switch_ 6 = 6
+4_baseline_1_switch_ 7 = 4
+4_baseline_1_switch_ 8 = 412
+4_baseline_1_switch_ 9 = 408
+4_baseline_1_switch_ 10 = 402
+4_baseline_1_switch_ 11 = 398
+4_baseline_1_switch_ 12 = 464
+4_baseline_1_switch_ 13 = 466
+4_baseline_1_switch_ 14 = 16
+4_baseline_1_switch_ 15 = 16
+4_baseline_1_switch_ 16 = 280
+4_baseline_1_switch_ 17 = 296
+4_baseline_1_switch_ 18 = 278
+4_baseline_1_switch_ 19 = 290
+[227, 238, 241, 204, 324, 194, 6, 4, 412, 408, 402, 398, 464, 466, 16, 16, 280, 296, 278, 290]
+4 base1
+d: 5 w: 6 k: 3
+all [795.0] 
+
+ans 795.0 
+
+4_baseline_1_switch_ 0 = 227
+4_baseline_1_switch_ 1 = 238
+4_baseline_1_switch_ 2 = 241
+4_baseline_1_switch_ 3 = 200
+4_baseline_1_switch_ 4 = 324
+4_baseline_1_switch_ 5 = 194
+4_baseline_1_switch_ 6 = 4
+4_baseline_1_switch_ 7 = 2
+4_baseline_1_switch_ 8 = 412
+4_baseline_1_switch_ 9 = 406
+4_baseline_1_switch_ 10 = 400
+4_baseline_1_switch_ 11 = 396
+4_baseline_1_switch_ 12 = 464
+4_baseline_1_switch_ 13 = 466
+4_baseline_1_switch_ 14 = 14
+4_baseline_1_switch_ 15 = 14
+4_baseline_1_switch_ 16 = 278
+4_baseline_1_switch_ 17 = 292
+4_baseline_1_switch_ 18 = 284
+4_baseline_1_switch_ 19 = 288
+[227, 238, 241, 200, 324, 194, 4, 2, 412, 406, 400, 396, 464, 466, 14, 14, 278, 292, 284, 288]
+4 base1
+d: 5 w: 9 k: 3
+all [459.0] 
+
+ans 459.0 
+
+4_baseline_1_switch_ 0 = 227
+4_baseline_1_switch_ 1 = 238
+4_baseline_1_switch_ 2 = 241
+4_baseline_1_switch_ 3 = 200
+4_baseline_1_switch_ 4 = 324
+4_baseline_1_switch_ 5 = 194
+4_baseline_1_switch_ 6 = 4
+4_baseline_1_switch_ 7 = 4
+4_baseline_1_switch_ 8 = 410
+4_baseline_1_switch_ 9 = 408
+4_baseline_1_switch_ 10 = 396
+4_baseline_1_switch_ 11 = 400
+4_baseline_1_switch_ 12 = 464
+4_baseline_1_switch_ 13 = 466
+4_baseline_1_switch_ 14 = 14
+4_baseline_1_switch_ 15 = 16
+4_baseline_1_switch_ 16 = 284
+4_baseline_1_switch_ 17 = 286
+4_baseline_1_switch_ 18 = 284
+4_baseline_1_switch_ 19 = 288
+[227, 238, 241, 200, 324, 194, 4, 4, 410, 408, 396, 400, 464, 466, 14, 16, 284, 286, 284, 288]
+4 base1
+d: 6 w: 9 k: 3
+all [316.0] 
+
+ans 316.0 
+
+4_baseline_1_switch_ 0 = 227
+4_baseline_1_switch_ 1 = 238
+4_baseline_1_switch_ 2 = 241
+4_baseline_1_switch_ 3 = 200
+4_baseline_1_switch_ 4 = 324
+4_baseline_1_switch_ 5 = 194
+4_baseline_1_switch_ 6 = 4
+4_baseline_1_switch_ 7 = 2
+4_baseline_1_switch_ 8 = 408
+4_baseline_1_switch_ 9 = 410
+4_baseline_1_switch_ 10 = 396
+4_baseline_1_switch_ 11 = 400
+4_baseline_1_switch_ 12 = 468
+4_baseline_1_switch_ 13 = 462
+4_baseline_1_switch_ 14 = 14
+4_baseline_1_switch_ 15 = 14
+4_baseline_1_switch_ 16 = 278
+4_baseline_1_switch_ 17 = 292
+4_baseline_1_switch_ 18 = 288
+4_baseline_1_switch_ 19 = 284
+[227, 238, 241, 200, 324, 194, 4, 2, 408, 410, 396, 400, 468, 462, 14, 14, 278, 292, 288, 284]
+4 base1
+d: 5 w: 3 k: 5
+all [1452.0] 
+
+ans 1452.0 
+
+4_baseline_1_switch_ 0 = 227
+4_baseline_1_switch_ 1 = 238
+4_baseline_1_switch_ 2 = 241
+4_baseline_1_switch_ 3 = 204
+4_baseline_1_switch_ 4 = 324
+4_baseline_1_switch_ 5 = 194
+4_baseline_1_switch_ 6 = 4
+4_baseline_1_switch_ 7 = 4
+4_baseline_1_switch_ 8 = 406
+4_baseline_1_switch_ 9 = 412
+4_baseline_1_switch_ 10 = 400
+4_baseline_1_switch_ 11 = 400
+4_baseline_1_switch_ 12 = 460
+4_baseline_1_switch_ 13 = 470
+4_baseline_1_switch_ 14 = 16
+4_baseline_1_switch_ 15 = 16
+4_baseline_1_switch_ 16 = 280
+4_baseline_1_switch_ 17 = 292
+4_baseline_1_switch_ 18 = 280
+4_baseline_1_switch_ 19 = 292
+[227, 238, 241, 204, 324, 194, 4, 4, 406, 412, 400, 400, 460, 470, 16, 16, 280, 292, 280, 292]
+4 base1
+d: 5 w: 6 k: 5
+all [786.0] 
+
+ans 786.0 
+
+4_baseline_1_switch_ 0 = 227
+4_baseline_1_switch_ 1 = 238
+4_baseline_1_switch_ 2 = 241
+4_baseline_1_switch_ 3 = 200
+4_baseline_1_switch_ 4 = 324
+4_baseline_1_switch_ 5 = 194
+4_baseline_1_switch_ 6 = 4
+4_baseline_1_switch_ 7 = 4
+4_baseline_1_switch_ 8 = 410
+4_baseline_1_switch_ 9 = 408
+4_baseline_1_switch_ 10 = 398
+4_baseline_1_switch_ 11 = 398
+4_baseline_1_switch_ 12 = 466
+4_baseline_1_switch_ 13 = 464
+4_baseline_1_switch_ 14 = 16
+4_baseline_1_switch_ 15 = 14
+4_baseline_1_switch_ 16 = 284
+4_baseline_1_switch_ 17 = 288
+4_baseline_1_switch_ 18 = 282
+4_baseline_1_switch_ 19 = 288
+[227, 238, 241, 200, 324, 194, 4, 4, 410, 408, 398, 398, 466, 464, 16, 14, 284, 288, 282, 288]
+4 base1
+d: 5 w: 9 k: 5
+all [377.0] 
+
+ans 377.0 
+
+4_baseline_1_switch_ 0 = 227
+4_baseline_1_switch_ 1 = 238
+4_baseline_1_switch_ 2 = 241
+4_baseline_1_switch_ 3 = 200
+4_baseline_1_switch_ 4 = 324
+4_baseline_1_switch_ 5 = 194
+4_baseline_1_switch_ 6 = 2
+4_baseline_1_switch_ 7 = 2
+4_baseline_1_switch_ 8 = 410
+4_baseline_1_switch_ 9 = 408
+4_baseline_1_switch_ 10 = 398
+4_baseline_1_switch_ 11 = 398
+4_baseline_1_switch_ 12 = 464
+4_baseline_1_switch_ 13 = 466
+4_baseline_1_switch_ 14 = 14
+4_baseline_1_switch_ 15 = 12
+4_baseline_1_switch_ 16 = 288
+4_baseline_1_switch_ 17 = 284
+4_baseline_1_switch_ 18 = 282
+4_baseline_1_switch_ 19 = 288
+[227, 238, 241, 200, 324, 194, 2, 2, 410, 408, 398, 398, 464, 466, 14, 12, 288, 284, 282, 288]
+4 base1
+d: 6 w: 9 k: 5
+all [296.0] 
+
+ans 296.0 
+
+4_baseline_1_switch_ 0 = 227
+4_baseline_1_switch_ 1 = 238
+4_baseline_1_switch_ 2 = 241
+4_baseline_1_switch_ 3 = 200
+4_baseline_1_switch_ 4 = 324
+4_baseline_1_switch_ 5 = 194
+4_baseline_1_switch_ 6 = 4
+4_baseline_1_switch_ 7 = 4
+4_baseline_1_switch_ 8 = 408
+4_baseline_1_switch_ 9 = 410
+4_baseline_1_switch_ 10 = 402
+4_baseline_1_switch_ 11 = 394
+4_baseline_1_switch_ 12 = 466
+4_baseline_1_switch_ 13 = 464
+4_baseline_1_switch_ 14 = 14
+4_baseline_1_switch_ 15 = 16
+4_baseline_1_switch_ 16 = 280
+4_baseline_1_switch_ 17 = 290
+4_baseline_1_switch_ 18 = 288
+4_baseline_1_switch_ 19 = 284
+[227, 238, 241, 200, 324, 194, 4, 4, 408, 410, 402, 394, 466, 464, 14, 16, 280, 290, 288, 284]

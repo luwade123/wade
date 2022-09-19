@@ -1,0 +1,120 @@
+6 algo
+d: 5 w: 3 k: 1
+all [2.727272727272727] 
+
+ans 2.727272727272727 
+
+number 1 average are:  0.6399851165019277 total flow 215  
+number 2 average are:  1.271460137085137 total flow 12  
+
+
+6 algo
+d: 5 w: 6 k: 1
+all [0.8928571428571429] 
+
+ans 0.8928571428571429 
+
+number 1 average are:  0.09162412183051766 total flow 217  
+number 2 average are:  0.18580764411027567 total flow 10  
+
+
+6 algo
+d: 5 w: 9 k: 1
+all [0.25] 
+
+ans 0.25 
+
+number 1 average are:  0.022898769167661558 total flow 200  
+number 2 average are:  0.0007407407407407407 total flow 27  
+
+
+6 algo
+d: 6 w: 9 k: 1
+all [0.3333333333333333] 
+
+ans 0.3333333333333333 
+
+number 1 average are:  0.02111106409106844 total flow 214  
+number 2 average are:  0.0 total flow 13  
+
+
+6 algo
+d: 5 w: 3 k: 3
+all [2.4545454545454546] 
+
+ans 2.4545454545454546 
+
+number 1 average are:  0.5916481085364514 total flow 209  
+number 2 average are:  1.286267517080689 total flow 18  
+
+
+6 algo
+d: 5 w: 6 k: 3
+all [0.75] 
+
+ans 0.75 
+
+number 1 average are:  0.06905601681953193 total flow 218  
+number 2 average are:  0.1432446560370537 total flow 9  
+
+
+6 algo
+d: 5 w: 9 k: 3
+all [0.29411764705882354] 
+
+ans 0.29411764705882354 
+
+number 1 average are:  0.015224015013343351 total flow 205  
+number 2 average are:  0.005858272162619988 total flow 22  
+
+
+6 algo
+d: 6 w: 9 k: 3
+all [0.13333333333333333] 
+
+ans 0.13333333333333333 
+
+number 1 average are:  0.009523627313224347 total flow 196  
+number 2 average are:  0.004001940334707737 total flow 31  
+
+
+6 algo
+d: 5 w: 3 k: 5
+all [3.272727272727273] 
+
+ans 3.272727272727273 
+
+number 1 average are:  0.6772120518829249 total flow 220  
+number 2 average are:  1.3697200877652005 total flow 7  
+
+
+6 algo
+d: 5 w: 6 k: 5
+all [0.9166666666666666] 
+
+ans 0.9166666666666666 
+
+number 1 average are:  0.07049538109270773 total flow 211  
+number 2 average are:  0.20506308489304814 total flow 16  
+
+
+6 algo
+d: 5 w: 9 k: 5
+all [0.16666666666666666] 
+
+ans 0.16666666666666666 
+
+number 1 average are:  0.009214497663516398 total flow 203  
+number 2 average are:  0.0036810776942355888 total flow 24  
+
+
+6 algo
+d: 6 w: 9 k: 5
+all [0.16666666666666666] 
+
+ans 0.16666666666666666 
+
+number 1 average are:  0.008691447709481909 total flow 203  
+number 2 average are:  0.0 total flow 24  
+
+

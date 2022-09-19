@@ -1,0 +1,360 @@
+4 base2
+d: 5 w: 3 k: 1
+all [378.0] 
+
+ans 378.0 
+
+number 1 average are:  6.080074704884242 total flow 239  
+
+
+4_algo_switch_ 0 = 227
+4_algo_switch_ 1 = 238
+4_algo_switch_ 2 = 241
+4_algo_switch_ 3 = 200
+4_algo_switch_ 4 = 324
+4_algo_switch_ 5 = 194
+4_algo_switch_ 6 = 0
+4_algo_switch_ 7 = 0
+4_algo_switch_ 8 = 410
+4_algo_switch_ 9 = 408
+4_algo_switch_ 10 = 398
+4_algo_switch_ 11 = 398
+4_algo_switch_ 12 = 464
+4_algo_switch_ 13 = 466
+4_algo_switch_ 14 = 0
+4_algo_switch_ 15 = 0
+4_algo_switch_ 16 = 280
+4_algo_switch_ 17 = 280
+4_algo_switch_ 18 = 280
+4_algo_switch_ 19 = 280
+[227, 238, 241, 200, 324, 194, 0, 0, 410, 408, 398, 398, 464, 466, 0, 0, 280, 280, 280, 280]
+4 base2
+d: 5 w: 6 k: 1
+all [171.0] 
+
+ans 171.0 
+
+number 1 average are:  1.8449991903649672 total flow 239  
+
+
+4_algo_switch_ 0 = 227
+4_algo_switch_ 1 = 238
+4_algo_switch_ 2 = 241
+4_algo_switch_ 3 = 200
+4_algo_switch_ 4 = 324
+4_algo_switch_ 5 = 194
+4_algo_switch_ 6 = 0
+4_algo_switch_ 7 = 0
+4_algo_switch_ 8 = 410
+4_algo_switch_ 9 = 408
+4_algo_switch_ 10 = 398
+4_algo_switch_ 11 = 398
+4_algo_switch_ 12 = 464
+4_algo_switch_ 13 = 466
+4_algo_switch_ 14 = 0
+4_algo_switch_ 15 = 0
+4_algo_switch_ 16 = 280
+4_algo_switch_ 17 = 280
+4_algo_switch_ 18 = 280
+4_algo_switch_ 19 = 280
+[227, 238, 241, 200, 324, 194, 0, 0, 410, 408, 398, 398, 464, 466, 0, 0, 280, 280, 280, 280]
+4 base2
+d: 5 w: 9 k: 1
+all [108.0] 
+
+ans 108.0 
+
+number 1 average are:  0.5904407559788089 total flow 239  
+
+
+4_algo_switch_ 0 = 227
+4_algo_switch_ 1 = 238
+4_algo_switch_ 2 = 241
+4_algo_switch_ 3 = 200
+4_algo_switch_ 4 = 324
+4_algo_switch_ 5 = 194
+4_algo_switch_ 6 = 0
+4_algo_switch_ 7 = 0
+4_algo_switch_ 8 = 410
+4_algo_switch_ 9 = 408
+4_algo_switch_ 10 = 398
+4_algo_switch_ 11 = 398
+4_algo_switch_ 12 = 464
+4_algo_switch_ 13 = 466
+4_algo_switch_ 14 = 0
+4_algo_switch_ 15 = 0
+4_algo_switch_ 16 = 280
+4_algo_switch_ 17 = 280
+4_algo_switch_ 18 = 280
+4_algo_switch_ 19 = 280
+[227, 238, 241, 200, 324, 194, 0, 0, 410, 408, 398, 398, 464, 466, 0, 0, 280, 280, 280, 280]
+4 base2
+d: 6 w: 9 k: 1
+all [56.0] 
+
+ans 56.0 
+
+number 1 average are:  0.5646596080711447 total flow 239  
+
+
+4_algo_switch_ 0 = 227
+4_algo_switch_ 1 = 238
+4_algo_switch_ 2 = 241
+4_algo_switch_ 3 = 200
+4_algo_switch_ 4 = 324
+4_algo_switch_ 5 = 194
+4_algo_switch_ 6 = 0
+4_algo_switch_ 7 = 0
+4_algo_switch_ 8 = 410
+4_algo_switch_ 9 = 408
+4_algo_switch_ 10 = 398
+4_algo_switch_ 11 = 398
+4_algo_switch_ 12 = 464
+4_algo_switch_ 13 = 466
+4_algo_switch_ 14 = 0
+4_algo_switch_ 15 = 0
+4_algo_switch_ 16 = 280
+4_algo_switch_ 17 = 280
+4_algo_switch_ 18 = 280
+4_algo_switch_ 19 = 280
+[227, 238, 241, 200, 324, 194, 0, 0, 410, 408, 398, 398, 464, 466, 0, 0, 280, 280, 280, 280]
+4 base2
+d: 5 w: 3 k: 3
+all [344.0] 
+
+ans 344.0 
+
+number 1 average are:  5.727889300493935 total flow 239  
+
+
+4_algo_switch_ 0 = 227
+4_algo_switch_ 1 = 238
+4_algo_switch_ 2 = 241
+4_algo_switch_ 3 = 200
+4_algo_switch_ 4 = 324
+4_algo_switch_ 5 = 194
+4_algo_switch_ 6 = 4
+4_algo_switch_ 7 = 2
+4_algo_switch_ 8 = 408
+4_algo_switch_ 9 = 410
+4_algo_switch_ 10 = 396
+4_algo_switch_ 11 = 400
+4_algo_switch_ 12 = 464
+4_algo_switch_ 13 = 466
+4_algo_switch_ 14 = 14
+4_algo_switch_ 15 = 14
+4_algo_switch_ 16 = 282
+4_algo_switch_ 17 = 282
+4_algo_switch_ 18 = 290
+4_algo_switch_ 19 = 288
+[227, 238, 241, 200, 324, 194, 4, 2, 408, 410, 396, 400, 464, 466, 14, 14, 282, 282, 290, 288]
+4 base2
+d: 5 w: 6 k: 3
+all [217.0] 
+
+ans 217.0 
+
+number 1 average are:  1.6345799654244804 total flow 239  
+
+
+4_algo_switch_ 0 = 227
+4_algo_switch_ 1 = 238
+4_algo_switch_ 2 = 241
+4_algo_switch_ 3 = 200
+4_algo_switch_ 4 = 324
+4_algo_switch_ 5 = 194
+4_algo_switch_ 6 = 2
+4_algo_switch_ 7 = 2
+4_algo_switch_ 8 = 410
+4_algo_switch_ 9 = 408
+4_algo_switch_ 10 = 398
+4_algo_switch_ 11 = 398
+4_algo_switch_ 12 = 466
+4_algo_switch_ 13 = 464
+4_algo_switch_ 14 = 12
+4_algo_switch_ 15 = 12
+4_algo_switch_ 16 = 284
+4_algo_switch_ 17 = 284
+4_algo_switch_ 18 = 286
+4_algo_switch_ 19 = 286
+[227, 238, 241, 200, 324, 194, 2, 2, 410, 408, 398, 398, 466, 464, 12, 12, 284, 284, 286, 286]
+4 base2
+d: 5 w: 9 k: 3
+all [198.0] 
+
+ans 198.0 
+
+number 1 average are:  0.6241852455415277 total flow 239  
+
+
+4_algo_switch_ 0 = 227
+4_algo_switch_ 1 = 238
+4_algo_switch_ 2 = 241
+4_algo_switch_ 3 = 200
+4_algo_switch_ 4 = 324
+4_algo_switch_ 5 = 194
+4_algo_switch_ 6 = 2
+4_algo_switch_ 7 = 2
+4_algo_switch_ 8 = 410
+4_algo_switch_ 9 = 408
+4_algo_switch_ 10 = 398
+4_algo_switch_ 11 = 398
+4_algo_switch_ 12 = 466
+4_algo_switch_ 13 = 464
+4_algo_switch_ 14 = 12
+4_algo_switch_ 15 = 12
+4_algo_switch_ 16 = 284
+4_algo_switch_ 17 = 284
+4_algo_switch_ 18 = 286
+4_algo_switch_ 19 = 286
+[227, 238, 241, 200, 324, 194, 2, 2, 410, 408, 398, 398, 466, 464, 12, 12, 284, 284, 286, 286]
+4 base2
+d: 6 w: 9 k: 3
+all [61.0] 
+
+ans 61.0 
+
+number 1 average are:  0.5706595425264506 total flow 239  
+
+
+4_algo_switch_ 0 = 227
+4_algo_switch_ 1 = 238
+4_algo_switch_ 2 = 241
+4_algo_switch_ 3 = 200
+4_algo_switch_ 4 = 324
+4_algo_switch_ 5 = 194
+4_algo_switch_ 6 = 2
+4_algo_switch_ 7 = 2
+4_algo_switch_ 8 = 408
+4_algo_switch_ 9 = 410
+4_algo_switch_ 10 = 396
+4_algo_switch_ 11 = 400
+4_algo_switch_ 12 = 466
+4_algo_switch_ 13 = 464
+4_algo_switch_ 14 = 12
+4_algo_switch_ 15 = 12
+4_algo_switch_ 16 = 282
+4_algo_switch_ 17 = 286
+4_algo_switch_ 18 = 286
+4_algo_switch_ 19 = 286
+[227, 238, 241, 200, 324, 194, 2, 2, 408, 410, 396, 400, 466, 464, 12, 12, 282, 286, 286, 286]
+4 base2
+d: 5 w: 3 k: 5
+all [285.0] 
+
+ans 285.0 
+
+number 1 average are:  5.972030284194691 total flow 239  
+
+
+4_algo_switch_ 0 = 227
+4_algo_switch_ 1 = 238
+4_algo_switch_ 2 = 241
+4_algo_switch_ 3 = 200
+4_algo_switch_ 4 = 324
+4_algo_switch_ 5 = 194
+4_algo_switch_ 6 = 4
+4_algo_switch_ 7 = 2
+4_algo_switch_ 8 = 410
+4_algo_switch_ 9 = 408
+4_algo_switch_ 10 = 400
+4_algo_switch_ 11 = 396
+4_algo_switch_ 12 = 466
+4_algo_switch_ 13 = 464
+4_algo_switch_ 14 = 14
+4_algo_switch_ 15 = 14
+4_algo_switch_ 16 = 284
+4_algo_switch_ 17 = 284
+4_algo_switch_ 18 = 288
+4_algo_switch_ 19 = 286
+[227, 238, 241, 200, 324, 194, 4, 2, 410, 408, 400, 396, 466, 464, 14, 14, 284, 284, 288, 286]
+4 base2
+d: 5 w: 6 k: 5
+all [163.0] 
+
+ans 163.0 
+
+number 1 average are:  1.730141155321719 total flow 239  
+
+
+4_algo_switch_ 0 = 227
+4_algo_switch_ 1 = 238
+4_algo_switch_ 2 = 241
+4_algo_switch_ 3 = 200
+4_algo_switch_ 4 = 324
+4_algo_switch_ 5 = 194
+4_algo_switch_ 6 = 2
+4_algo_switch_ 7 = 0
+4_algo_switch_ 8 = 410
+4_algo_switch_ 9 = 408
+4_algo_switch_ 10 = 398
+4_algo_switch_ 11 = 398
+4_algo_switch_ 12 = 464
+4_algo_switch_ 13 = 466
+4_algo_switch_ 14 = 12
+4_algo_switch_ 15 = 10
+4_algo_switch_ 16 = 286
+4_algo_switch_ 17 = 284
+4_algo_switch_ 18 = 286
+4_algo_switch_ 19 = 284
+[227, 238, 241, 200, 324, 194, 2, 0, 410, 408, 398, 398, 464, 466, 12, 10, 286, 284, 286, 284]
+4 base2
+d: 5 w: 9 k: 5
+all [142.0] 
+
+ans 142.0 
+
+number 1 average are:  0.6446963959293238 total flow 239  
+
+
+4_algo_switch_ 0 = 227
+4_algo_switch_ 1 = 238
+4_algo_switch_ 2 = 241
+4_algo_switch_ 3 = 200
+4_algo_switch_ 4 = 324
+4_algo_switch_ 5 = 194
+4_algo_switch_ 6 = 2
+4_algo_switch_ 7 = 2
+4_algo_switch_ 8 = 410
+4_algo_switch_ 9 = 408
+4_algo_switch_ 10 = 398
+4_algo_switch_ 11 = 398
+4_algo_switch_ 12 = 466
+4_algo_switch_ 13 = 464
+4_algo_switch_ 14 = 12
+4_algo_switch_ 15 = 12
+4_algo_switch_ 16 = 288
+4_algo_switch_ 17 = 286
+4_algo_switch_ 18 = 282
+4_algo_switch_ 19 = 284
+[227, 238, 241, 200, 324, 194, 2, 2, 410, 408, 398, 398, 466, 464, 12, 12, 288, 286, 282, 284]
+4 base2
+d: 6 w: 9 k: 5
+all [59.0] 
+
+ans 59.0 
+
+number 1 average are:  0.5134142041233124 total flow 239  
+
+
+4_algo_switch_ 0 = 227
+4_algo_switch_ 1 = 238
+4_algo_switch_ 2 = 241
+4_algo_switch_ 3 = 200
+4_algo_switch_ 4 = 324
+4_algo_switch_ 5 = 194
+4_algo_switch_ 6 = 2
+4_algo_switch_ 7 = 0
+4_algo_switch_ 8 = 408
+4_algo_switch_ 9 = 410
+4_algo_switch_ 10 = 400
+4_algo_switch_ 11 = 396
+4_algo_switch_ 12 = 464
+4_algo_switch_ 13 = 466
+4_algo_switch_ 14 = 10
+4_algo_switch_ 15 = 10
+4_algo_switch_ 16 = 286
+4_algo_switch_ 17 = 284
+4_algo_switch_ 18 = 284
+4_algo_switch_ 19 = 284
+[227, 238, 241, 200, 324, 194, 2, 0, 408, 410, 400, 396, 464, 466, 10, 10, 286, 284, 284, 284]

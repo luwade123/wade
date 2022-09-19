@@ -87,11 +87,12 @@ def Algo():
     if(which_flow != ''):
         print('The worst flow is',which_flow,'Its ARE is',MAX)
         for index,sketch in enumerate(sketch_list):
-            if(index not in store_set[which_flow]):
-                tmp = sketch.query(which_flow)
-                if(MIN>tmp):
-                    which_switch = index
-                    MIN = tmp
+            if(index in recode_path_list[which_flow]):
+                if(index not in store_set[which_flow]):
+                    tmp = sketch.query(which_flow)
+                    if(MIN>tmp):
+                        which_switch = index
+                        MIN = tmp
         if(which_switch !=-1):
             if(MIN != MAX):
                 print('Put',which_flow,'into the switch',(which_switch))

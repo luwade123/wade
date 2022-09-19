@@ -28,28 +28,28 @@ c1 = SwitchNode()
 c2 = SwitchNode()
 c3 = SwitchNode()
 
-sketch_t0 = CountMinSketch(9, 6)
-sketch_t1 = CountMinSketch(9, 6)
-sketch_t2 = CountMinSketch(9, 6)
-sketch_t3 = CountMinSketch(9, 6)
-sketch_t4 = CountMinSketch(9, 6)
-sketch_t5 = CountMinSketch(9, 6)
-sketch_t6 = CountMinSketch(9, 6)
-sketch_t7 = CountMinSketch(9, 6)
+sketch_t0 = CountMinSketch(3, 5)
+sketch_t1 = CountMinSketch(3, 5)
+sketch_t2 = CountMinSketch(3, 5)
+sketch_t3 = CountMinSketch(3, 5)
+sketch_t4 = CountMinSketch(3, 5)
+sketch_t5 = CountMinSketch(3, 5)
+sketch_t6 = CountMinSketch(3, 5)
+sketch_t7 = CountMinSketch(3, 5)
 
-sketch_a0 = CountMinSketch(9, 6)
-sketch_a1 = CountMinSketch(9, 6)
-sketch_a2 = CountMinSketch(9, 6)
-sketch_a3 = CountMinSketch(9, 6)
-sketch_a4 = CountMinSketch(9, 6)
-sketch_a5 = CountMinSketch(9, 6)
-sketch_a6 = CountMinSketch(9, 6)
-sketch_a7 = CountMinSketch(9, 6)
+sketch_a0 = CountMinSketch(3, 5)
+sketch_a1 = CountMinSketch(3, 5)
+sketch_a2 = CountMinSketch(3, 5)
+sketch_a3 = CountMinSketch(3, 5)
+sketch_a4 = CountMinSketch(3, 5)
+sketch_a5 = CountMinSketch(3, 5)
+sketch_a6 = CountMinSketch(3, 5)
+sketch_a7 = CountMinSketch(3, 5)
 
-sketch_c0 = CountMinSketch(9, 6)
-sketch_c1 = CountMinSketch(9, 6)
-sketch_c2 = CountMinSketch(9, 6)
-sketch_c3 = CountMinSketch(9, 6)
+sketch_c0 = CountMinSketch(3, 5)
+sketch_c1 = CountMinSketch(3, 5)
+sketch_c2 = CountMinSketch(3, 5)
+sketch_c3 = CountMinSketch(3, 5)
 
 
 
@@ -144,7 +144,7 @@ dijk_list[18][15] = 1     ## a7 c2
 dijk_list[15][19] = 1
 dijk_list[19][15] = 1     ## a7 c3
 
-path='dis.txt'
+path='dist2(more_skwe).txt'
 f = open(path,'r')
 for line in f:
     src = line.split(':')
@@ -168,6 +168,13 @@ def are(IP):
     ori = record_original_list[IP]
     return (min - ori) / ori 
 
+def collision(IP):
+    min = 99999
+    for i in store_set[IP]:
+        tmp = num_to_sketch(i).query(IP)
+        if(tmp<min):
+            min = tmp
+    return min 
 
 def find_small_ARE(IP,path):
     min = 99999
@@ -180,17 +187,18 @@ def find_small_ARE(IP,path):
     return which_switch
 def Algo():
     MAX = 0             ## MAX of ARE of all flow.
-    MIN = 100000        ## MIN of the ARE for one flow to decide store in which switch. 
+          ## MIN of the ARE for one flow to decide store in which switch. 
     which_flow = ''
     flow_num = -1
     which_switch = -1
     for value in record_original_list.keys():
-        if(MAX<are(value)):
-            MAX = are(value)
-            which_flow = value
-
+        if(record_original_list[value]>10):
+            if(MAX<are(value)):
+                MAX = are(value)
+                which_flow = value
+    MIN = collision(which_flow)
     if(which_flow != ''):
-        print('The worst flow is',which_flow,'Its ARE is',MAX)
+        print('The worst flow is',which_flow,'Its ARE is',are(which_flow),"total =",record_original_list[which_flow])
         for index,sketch in enumerate(sketch_list):
             if(index not in store_set[which_flow]):
                 tmp = sketch.query(which_flow)
@@ -199,10 +207,12 @@ def Algo():
                     MIN = tmp
         if(which_switch !=-1):
             if(MIN != MAX):
-                print('Put',which_flow,'into the switch',(which_switch))
-                num_to_sketch(which_switch).add(which_flow)
-                tmp_list = [which_switch]
-                store_set[which_flow].extend(tmp_list)
+                print('Put',which_flow,'into the switch',(which_switch),"collision = ",num_to_sketch(which_switch).query(which_flow),"MIN",MIN)
+                print("It's store set ",store_set[which_flow])
+                num_to_sketch(which_switch).add(which_flow,record_original_list[which_flow])
+                # tmp_list = [which_switch]
+                store_set[which_flow].append(which_switch)
+                print(store_set[which_flow])
                 Algo()
             else:
                 print('Can not be better.')
@@ -281,17 +291,32 @@ for packets in pcaps:
 
 max = 0
 max_id =''
-for i in record_original_list.keys():
-    tmp = are(i)
-    if(max < tmp):
-        max_id = i
-        max = tmp
-print(dijkstra(0,5))
-print(dijk_list)
-print(link_list)
-print(i)
-print(max)
+total_are = 0
+total_flow = 0
+# for i in record_original_list.keys():
+#     tmp = are(i)
+#     total_are += tmp
+#     total_flow += 1
+#     if(max < tmp):
+#         max_id = i
+#         max = tmp
+# print(dijkstra(0,5))
+# print(dijk_list)
+# print(link_list)
+# print(i)
+# print(max)
 
 Algo()
 
 print(dijk_list)
+
+for i in record_original_list.keys():
+    # print(i,store_set[i])
+    tmp = are(i)
+    tmp2 = collision(i)
+    total_are += tmp
+    total_flow += 1
+    if(max < tmp):
+        max_id = i
+        max = tmp
+print("ave : ",total_are/total_flow)

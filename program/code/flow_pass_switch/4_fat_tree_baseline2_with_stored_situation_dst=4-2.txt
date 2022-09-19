@@ -1,0 +1,360 @@
+4 base2
+d: 5 w: 3 k: 1
+all [540.0] 
+
+ans 540.0 
+
+number 1 average are:  9.262160393214124 total flow 239  
+
+
+4_algo_switch_ 0 = 398
+4_algo_switch_ 1 = 384
+4_algo_switch_ 2 = 326
+4_algo_switch_ 3 = 316
+4_algo_switch_ 4 = 0
+4_algo_switch_ 5 = 0
+4_algo_switch_ 6 = 0
+4_algo_switch_ 7 = 0
+4_algo_switch_ 8 = 636
+4_algo_switch_ 9 = 634
+4_algo_switch_ 10 = 566
+4_algo_switch_ 11 = 564
+4_algo_switch_ 12 = 0
+4_algo_switch_ 13 = 0
+4_algo_switch_ 14 = 0
+4_algo_switch_ 15 = 0
+4_algo_switch_ 16 = 244
+4_algo_switch_ 17 = 244
+4_algo_switch_ 18 = 244
+4_algo_switch_ 19 = 244
+[398, 384, 326, 316, 0, 0, 0, 0, 636, 634, 566, 564, 0, 0, 0, 0, 244, 244, 244, 244]
+4 base2
+d: 5 w: 6 k: 1
+all [282.0] 
+
+ans 282.0 
+
+number 1 average are:  2.790273382694981 total flow 239  
+
+
+4_algo_switch_ 0 = 398
+4_algo_switch_ 1 = 384
+4_algo_switch_ 2 = 326
+4_algo_switch_ 3 = 316
+4_algo_switch_ 4 = 0
+4_algo_switch_ 5 = 0
+4_algo_switch_ 6 = 0
+4_algo_switch_ 7 = 0
+4_algo_switch_ 8 = 636
+4_algo_switch_ 9 = 634
+4_algo_switch_ 10 = 566
+4_algo_switch_ 11 = 564
+4_algo_switch_ 12 = 0
+4_algo_switch_ 13 = 0
+4_algo_switch_ 14 = 0
+4_algo_switch_ 15 = 0
+4_algo_switch_ 16 = 244
+4_algo_switch_ 17 = 244
+4_algo_switch_ 18 = 244
+4_algo_switch_ 19 = 244
+[398, 384, 326, 316, 0, 0, 0, 0, 636, 634, 566, 564, 0, 0, 0, 0, 244, 244, 244, 244]
+4 base2
+d: 5 w: 9 k: 1
+all [242.0] 
+
+ans 242.0 
+
+number 1 average are:  1.377957963894613 total flow 239  
+
+
+4_algo_switch_ 0 = 398
+4_algo_switch_ 1 = 384
+4_algo_switch_ 2 = 326
+4_algo_switch_ 3 = 316
+4_algo_switch_ 4 = 0
+4_algo_switch_ 5 = 0
+4_algo_switch_ 6 = 0
+4_algo_switch_ 7 = 0
+4_algo_switch_ 8 = 636
+4_algo_switch_ 9 = 634
+4_algo_switch_ 10 = 566
+4_algo_switch_ 11 = 564
+4_algo_switch_ 12 = 0
+4_algo_switch_ 13 = 0
+4_algo_switch_ 14 = 0
+4_algo_switch_ 15 = 0
+4_algo_switch_ 16 = 244
+4_algo_switch_ 17 = 244
+4_algo_switch_ 18 = 244
+4_algo_switch_ 19 = 244
+[398, 384, 326, 316, 0, 0, 0, 0, 636, 634, 566, 564, 0, 0, 0, 0, 244, 244, 244, 244]
+4 base2
+d: 6 w: 9 k: 1
+all [108.0] 
+
+ans 108.0 
+
+number 1 average are:  1.167449058869683 total flow 239  
+
+
+4_algo_switch_ 0 = 398
+4_algo_switch_ 1 = 384
+4_algo_switch_ 2 = 326
+4_algo_switch_ 3 = 316
+4_algo_switch_ 4 = 0
+4_algo_switch_ 5 = 0
+4_algo_switch_ 6 = 0
+4_algo_switch_ 7 = 0
+4_algo_switch_ 8 = 636
+4_algo_switch_ 9 = 634
+4_algo_switch_ 10 = 566
+4_algo_switch_ 11 = 564
+4_algo_switch_ 12 = 0
+4_algo_switch_ 13 = 0
+4_algo_switch_ 14 = 0
+4_algo_switch_ 15 = 0
+4_algo_switch_ 16 = 244
+4_algo_switch_ 17 = 244
+4_algo_switch_ 18 = 244
+4_algo_switch_ 19 = 244
+[398, 384, 326, 316, 0, 0, 0, 0, 636, 634, 566, 564, 0, 0, 0, 0, 244, 244, 244, 244]
+4 base2
+d: 5 w: 3 k: 3
+all [483.0] 
+
+ans 483.0 
+
+number 1 average are:  9.218655971970671 total flow 239  
+
+
+4_algo_switch_ 0 = 398
+4_algo_switch_ 1 = 384
+4_algo_switch_ 2 = 326
+4_algo_switch_ 3 = 316
+4_algo_switch_ 4 = 2
+4_algo_switch_ 5 = 2
+4_algo_switch_ 6 = 2
+4_algo_switch_ 7 = 2
+4_algo_switch_ 8 = 634
+4_algo_switch_ 9 = 636
+4_algo_switch_ 10 = 564
+4_algo_switch_ 11 = 566
+4_algo_switch_ 12 = 12
+4_algo_switch_ 13 = 12
+4_algo_switch_ 14 = 10
+4_algo_switch_ 15 = 10
+4_algo_switch_ 16 = 254
+4_algo_switch_ 17 = 252
+4_algo_switch_ 18 = 254
+4_algo_switch_ 19 = 252
+[398, 384, 326, 316, 2, 2, 2, 2, 634, 636, 564, 566, 12, 12, 10, 10, 254, 252, 254, 252]
+4 base2
+d: 5 w: 6 k: 3
+all [249.0] 
+
+ans 249.0 
+
+number 1 average are:  2.933212959452068 total flow 239  
+
+
+4_algo_switch_ 0 = 398
+4_algo_switch_ 1 = 384
+4_algo_switch_ 2 = 326
+4_algo_switch_ 3 = 316
+4_algo_switch_ 4 = 2
+4_algo_switch_ 5 = 2
+4_algo_switch_ 6 = 4
+4_algo_switch_ 7 = 2
+4_algo_switch_ 8 = 636
+4_algo_switch_ 9 = 634
+4_algo_switch_ 10 = 566
+4_algo_switch_ 11 = 564
+4_algo_switch_ 12 = 12
+4_algo_switch_ 13 = 12
+4_algo_switch_ 14 = 12
+4_algo_switch_ 15 = 12
+4_algo_switch_ 16 = 250
+4_algo_switch_ 17 = 258
+4_algo_switch_ 18 = 254
+4_algo_switch_ 19 = 252
+[398, 384, 326, 316, 2, 2, 4, 2, 636, 634, 566, 564, 12, 12, 12, 12, 250, 258, 254, 252]
+4 base2
+d: 5 w: 9 k: 3
+all [109.0] 
+
+ans 109.0 
+
+number 1 average are:  1.1962408304001615 total flow 239  
+
+
+4_algo_switch_ 0 = 398
+4_algo_switch_ 1 = 384
+4_algo_switch_ 2 = 326
+4_algo_switch_ 3 = 316
+4_algo_switch_ 4 = 4
+4_algo_switch_ 5 = 2
+4_algo_switch_ 6 = 2
+4_algo_switch_ 7 = 2
+4_algo_switch_ 8 = 636
+4_algo_switch_ 9 = 634
+4_algo_switch_ 10 = 566
+4_algo_switch_ 11 = 564
+4_algo_switch_ 12 = 12
+4_algo_switch_ 13 = 12
+4_algo_switch_ 14 = 10
+4_algo_switch_ 15 = 10
+4_algo_switch_ 16 = 252
+4_algo_switch_ 17 = 254
+4_algo_switch_ 18 = 252
+4_algo_switch_ 19 = 252
+[398, 384, 326, 316, 4, 2, 2, 2, 636, 634, 566, 564, 12, 12, 10, 10, 252, 254, 252, 252]
+4 base2
+d: 6 w: 9 k: 3
+all [149.5] 
+
+ans 149.5 
+
+number 1 average are:  0.9877535356068228 total flow 239  
+
+
+4_algo_switch_ 0 = 398
+4_algo_switch_ 1 = 384
+4_algo_switch_ 2 = 326
+4_algo_switch_ 3 = 316
+4_algo_switch_ 4 = 2
+4_algo_switch_ 5 = 2
+4_algo_switch_ 6 = 4
+4_algo_switch_ 7 = 2
+4_algo_switch_ 8 = 634
+4_algo_switch_ 9 = 636
+4_algo_switch_ 10 = 564
+4_algo_switch_ 11 = 566
+4_algo_switch_ 12 = 12
+4_algo_switch_ 13 = 12
+4_algo_switch_ 14 = 12
+4_algo_switch_ 15 = 12
+4_algo_switch_ 16 = 254
+4_algo_switch_ 17 = 254
+4_algo_switch_ 18 = 256
+4_algo_switch_ 19 = 250
+[398, 384, 326, 316, 2, 2, 4, 2, 634, 636, 564, 566, 12, 12, 12, 12, 254, 254, 256, 250]
+4 base2
+d: 5 w: 3 k: 5
+all [552.0] 
+
+ans 552.0 
+
+number 1 average are:  8.466127419770373 total flow 239  
+
+
+4_algo_switch_ 0 = 398
+4_algo_switch_ 1 = 384
+4_algo_switch_ 2 = 326
+4_algo_switch_ 3 = 316
+4_algo_switch_ 4 = 4
+4_algo_switch_ 5 = 4
+4_algo_switch_ 6 = 4
+4_algo_switch_ 7 = 4
+4_algo_switch_ 8 = 636
+4_algo_switch_ 9 = 634
+4_algo_switch_ 10 = 564
+4_algo_switch_ 11 = 566
+4_algo_switch_ 12 = 14
+4_algo_switch_ 13 = 14
+4_algo_switch_ 14 = 14
+4_algo_switch_ 15 = 14
+4_algo_switch_ 16 = 254
+4_algo_switch_ 17 = 256
+4_algo_switch_ 18 = 252
+4_algo_switch_ 19 = 254
+[398, 384, 326, 316, 4, 4, 4, 4, 636, 634, 564, 566, 14, 14, 14, 14, 254, 256, 252, 254]
+4 base2
+d: 5 w: 6 k: 5
+all [351.0] 
+
+ans 351.0 
+
+number 1 average are:  2.755306392208873 total flow 239  
+
+
+4_algo_switch_ 0 = 398
+4_algo_switch_ 1 = 384
+4_algo_switch_ 2 = 326
+4_algo_switch_ 3 = 316
+4_algo_switch_ 4 = 2
+4_algo_switch_ 5 = 2
+4_algo_switch_ 6 = 4
+4_algo_switch_ 7 = 2
+4_algo_switch_ 8 = 634
+4_algo_switch_ 9 = 636
+4_algo_switch_ 10 = 564
+4_algo_switch_ 11 = 566
+4_algo_switch_ 12 = 12
+4_algo_switch_ 13 = 12
+4_algo_switch_ 14 = 12
+4_algo_switch_ 15 = 12
+4_algo_switch_ 16 = 252
+4_algo_switch_ 17 = 252
+4_algo_switch_ 18 = 260
+4_algo_switch_ 19 = 250
+[398, 384, 326, 316, 2, 2, 4, 2, 634, 636, 564, 566, 12, 12, 12, 12, 252, 252, 260, 250]
+4 base2
+d: 5 w: 9 k: 5
+all [132.0] 
+
+ans 132.0 
+
+number 1 average are:  1.1268329687489873 total flow 239  
+
+
+4_algo_switch_ 0 = 398
+4_algo_switch_ 1 = 384
+4_algo_switch_ 2 = 326
+4_algo_switch_ 3 = 316
+4_algo_switch_ 4 = 2
+4_algo_switch_ 5 = 2
+4_algo_switch_ 6 = 4
+4_algo_switch_ 7 = 2
+4_algo_switch_ 8 = 636
+4_algo_switch_ 9 = 634
+4_algo_switch_ 10 = 564
+4_algo_switch_ 11 = 566
+4_algo_switch_ 12 = 12
+4_algo_switch_ 13 = 12
+4_algo_switch_ 14 = 12
+4_algo_switch_ 15 = 12
+4_algo_switch_ 16 = 254
+4_algo_switch_ 17 = 252
+4_algo_switch_ 18 = 254
+4_algo_switch_ 19 = 254
+[398, 384, 326, 316, 2, 2, 4, 2, 636, 634, 564, 566, 12, 12, 12, 12, 254, 252, 254, 254]
+4 base2
+d: 6 w: 9 k: 5
+all [79.0] 
+
+ans 79.0 
+
+number 1 average are:  0.932533599126617 total flow 239  
+
+
+4_algo_switch_ 0 = 398
+4_algo_switch_ 1 = 384
+4_algo_switch_ 2 = 326
+4_algo_switch_ 3 = 316
+4_algo_switch_ 4 = 4
+4_algo_switch_ 5 = 2
+4_algo_switch_ 6 = 2
+4_algo_switch_ 7 = 2
+4_algo_switch_ 8 = 636
+4_algo_switch_ 9 = 634
+4_algo_switch_ 10 = 564
+4_algo_switch_ 11 = 566
+4_algo_switch_ 12 = 12
+4_algo_switch_ 13 = 12
+4_algo_switch_ 14 = 10
+4_algo_switch_ 15 = 12
+4_algo_switch_ 16 = 254
+4_algo_switch_ 17 = 250
+4_algo_switch_ 18 = 248
+4_algo_switch_ 19 = 260
+[398, 384, 326, 316, 4, 2, 2, 2, 636, 634, 564, 566, 12, 12, 10, 12, 254, 250, 248, 260]

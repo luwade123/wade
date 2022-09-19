@@ -1,0 +1,43 @@
+
+print()
+four_algo_switch_0 = 295
+four_algo_switch_1 = 210
+four_algo_switch_2 = 113
+four_algo_switch_3 = 231
+four_algo_switch_4 = 108
+four_algo_switch_5 = 142
+four_algo_switch_6 = 158
+four_algo_switch_7 = 167
+four_algo_switch_8 = 446
+four_algo_switch_9 = 436
+four_algo_switch_10 = 322
+four_algo_switch_11 = 318
+four_algo_switch_12 = 242
+four_algo_switch_13 = 238
+four_algo_switch_14 = 310
+four_algo_switch_15 = 302
+four_algo_switch_16 = 300
+four_algo_switch_17 = 300
+four_algo_switch_18 = 296
+four_algo_switch_19 = 294
+
+four_4_1_algo_switch_0 = 219
+four_4_1_algo_switch_1 = 238
+four_4_1_algo_switch_2 = 241
+four_4_1_algo_switch_3 = 200
+four_4_1_algo_switch_4 = 324
+four_4_1_algo_switch_5 = 194
+four_4_1_algo_switch_6 = 8
+four_4_1_algo_switch_7 = 2
+four_4_1_algo_switch_8 = 398
+four_4_1_algo_switch_9 = 404
+four_4_1_algo_switch_10 = 398
+four_4_1_algo_switch_11 = 398
+four_4_1_algo_switch_12 = 466
+four_4_1_algo_switch_13 = 464
+four_4_1_algo_switch_14 = 18
+four_4_1_algo_switch_15 = 16
+four_4_1_algo_switch_16 = 282
+four_4_1_algo_switch_17 = 286
+four_4_1_algo_switch_18 = 286
+four_4_1_algo_switch_19 = 282

@@ -1,0 +1,108 @@
+4 base2
+d: 5 w: 3 k: 1
+all [351.0] 
+
+ans 351.0 
+
+number 1 average are:  4.289725823224249 total flow 239  
+
+
+4 base2
+d: 5 w: 6 k: 1
+all [288.0] 
+
+ans 288.0 
+
+number 1 average are:  1.0642001810482136 total flow 239  
+
+
+4 base2
+d: 5 w: 9 k: 1
+all [67.0] 
+
+ans 67.0 
+
+number 1 average are:  0.38741069614186807 total flow 239  
+
+
+4 base2
+d: 6 w: 9 k: 1
+all [44.0] 
+
+ans 44.0 
+
+number 1 average are:  0.2950331069279079 total flow 239  
+
+
+4 base2
+d: 5 w: 3 k: 3
+all [359.0] 
+
+ans 359.0 
+
+number 1 average are:  4.367521866533978 total flow 239  
+
+
+4 base2
+d: 5 w: 6 k: 3
+all [116.0] 
+
+ans 116.0 
+
+number 1 average are:  1.0702400001965504 total flow 239  
+
+
+4 base2
+d: 5 w: 9 k: 3
+all [47.5] 
+
+ans 47.5 
+
+number 1 average are:  0.3584761384067738 total flow 239  
+
+
+4 base2
+d: 6 w: 9 k: 3
+all [88.0] 
+
+ans 88.0 
+
+number 1 average are:  0.3966269856125579 total flow 239  
+
+
+4 base2
+d: 5 w: 3 k: 5
+all [361.0] 
+
+ans 361.0 
+
+number 1 average are:  4.351344147251271 total flow 239  
+
+
+4 base2
+d: 5 w: 6 k: 5
+all [134.0] 
+
+ans 134.0 
+
+number 1 average are:  1.0732227728408257 total flow 239  
+
+
+4 base2
+d: 5 w: 9 k: 5
+all [189.0] 
+
+ans 189.0 
+
+number 1 average are:  0.39867857216282265 total flow 239  
+
+
+4 base2
+d: 6 w: 9 k: 5
+all [84.0] 
+
+ans 84.0 
+
+number 1 average are:  0.32763949746784266 total flow 239  
+
+
